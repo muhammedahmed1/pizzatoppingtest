@@ -1,0 +1,10 @@
+H:\Usman\Usman\Alphasoft\Test\pizza-topping-test\pizza-topping-test\bin\Debug\pizza-topping-test.exe.config
+H:\Usman\Usman\Alphasoft\Test\pizza-topping-test\pizza-topping-test\bin\Debug\pizza-topping-test.exe
+H:\Usman\Usman\Alphasoft\Test\pizza-topping-test\pizza-topping-test\bin\Debug\pizza-topping-test.pdb
+H:\Usman\Usman\Alphasoft\Test\pizza-topping-test\pizza-topping-test\bin\Debug\Newtonsoft.Json.dll
+H:\Usman\Usman\Alphasoft\Test\pizza-topping-test\pizza-topping-test\bin\Debug\Newtonsoft.Json.xml
+H:\Usman\Usman\Alphasoft\Test\pizza-topping-test\pizza-topping-test\obj\Debug\pizza-topping-test.csprojAssemblyReference.cache
+H:\Usman\Usman\Alphasoft\Test\pizza-topping-test\pizza-topping-test\obj\Debug\pizza-topping-test.csproj.CoreCompileInputs.cache
+H:\Usman\Usman\Alphasoft\Test\pizza-topping-test\pizza-topping-test\obj\Debug\pizza-topping-test.csproj.CopyComplete
+H:\Usman\Usman\Alphasoft\Test\pizza-topping-test\pizza-topping-test\obj\Debug\pizza-topping-test.exe
+H:\Usman\Usman\Alphasoft\Test\pizza-topping-test\pizza-topping-test\obj\Debug\pizza-topping-test.pdb
